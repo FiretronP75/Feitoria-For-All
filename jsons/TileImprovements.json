@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Feitoria",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"gold": 1,
+		"happiness": 1,
+		"techRequired": "Navigation",
+		"uniques": ["Gives a defensive bonus of [50]%","Can only be built on [Coastal] tiles <with [1] to [1] neighboring [City center] tiles>"]
+	}
+]
